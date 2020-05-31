@@ -10,8 +10,6 @@
 
 <permissions>
 
-<library name="com.android.services" file="/system/framework/services.jar"/>
-
 <permission name="com.qualcomm.permission.IZAT" >
     <group gid="gps" />
     <group gid="system" />
